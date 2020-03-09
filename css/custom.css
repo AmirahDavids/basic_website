@@ -1,9 +1,10 @@
 
+
 /* Landing Page */
 
 
 #buttonsBox{
-  background-color: yellow
+  /* background-color: yellow */
 }
 
 /* Basic Page */
@@ -19,13 +20,12 @@
 .nameBox{
   width: 50%;
   height: 200px;
-  border: 2px solid black;
-  background-color: yellow;
+
 }
 
 .imageBox{
   width: 50%;
   height: 200px;
-  background-color: red;
-  border: 2px solid black;
 }
+
+.cityBox
