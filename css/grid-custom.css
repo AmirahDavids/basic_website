@@ -25,10 +25,6 @@
     float: right;
   }
   
-  .small-padding{
-    padding: 10px;
-  }
-  
   @media only screen and (max-width: 1100px) {
     .historicPlaceBox {
       display: grid;
