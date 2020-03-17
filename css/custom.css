@@ -5,9 +5,13 @@
 
 /* Basic Page */
 
-table, th, td{
+ table, th, td{ 
   border: 1px solid black;
+  width: 30%;
+  border-collapse: collapse;
+  
 }
+
 
 /* First Section  */
 
