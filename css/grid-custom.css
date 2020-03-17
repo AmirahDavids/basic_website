@@ -10,10 +10,6 @@
     text-align: center;
 } 
 
-table,th,td {
-  border-collapse: collapse;
-  border: 1px black solid;
-}
 .place{
     float: left;
     width: 30%;
